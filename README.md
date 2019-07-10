@@ -33,9 +33,6 @@ Some crucial parameters defined in the code with explanations.
 |`eta`                | the step size           |
 |`tol`                | when the gradient is "tol" away from zero, iterations will stop |
 |`alpha`              | representing how much we take part previous gradient    |
-|`loss_fn_min`        | the minimum value of the loss function that has been found     |
-|`x_at_min`           | the value of x which gives the minimum value     |
-|`y_at_min`           | the value of y which gives the minimum value    |
 
 The table below summrized the results of plain vanilla gradient descent with different step sizes.
 
